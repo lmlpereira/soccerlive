@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:soccerlive/goalstat.dart';
-import 'package:soccerlive/matchtile.dart';
-import 'package:soccerlive/soccermodel.dart';
-import 'package:soccerlive/teamstat.dart';
+import 'package:soccerlive/ui/goalstat.dart';
+import 'package:soccerlive/ui/matchtile.dart';
+import 'package:soccerlive/ui/soccermodel.dart';
+import 'package:soccerlive/ui/teamstat.dart';
 
 Widget PageBody(List<SoccerMatch> allmatches){
   return Column(

@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:soccerlive/soccermodel.dart';
+import 'package:soccerlive/ui/soccermodel.dart';
 
 Widget matchTile(SoccerMatch match){
   

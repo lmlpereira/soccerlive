@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:http/http.dart';
-import 'package:soccerlive/soccermodel.dart';
+import 'package:soccerlive/ui/soccermodel.dart';
 
 class SoccerApi{
 

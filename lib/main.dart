@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:soccerlive/api_manager.dart';
-import 'package:soccerlive/pagebody.dart';
+import 'package:soccerlive/service/api_manager.dart';
+import 'package:soccerlive/ui/pagebody.dart';
 
 void main() {
   runApp(const MyApp());
